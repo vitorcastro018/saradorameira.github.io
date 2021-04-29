@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(BACKSARA.jpg);
+}
+section{
+    text-align: center;
+}
+
+
+h2{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+    
+}
+p{
+    font-size: 20px;
+    font-family: cursive;
+    color: whitesmoke;
+}
+
+div{
+    border-style: ridge;
+    border-width: 1em;
+    border-color: rgb(124, 33, 0);
+}
+#conteudo{
+    margin: 0 auto;
+    border-style: outset;
+    border-width: 1em;
+    border-color: red;
+    
+}
